@@ -1,6 +1,6 @@
 """----------------------------------------------------------------------------------------------------
 well come, this is maskiiw, this is a simple project about socket programing.
-       this file is the clint side of this project.
+       this file is the server side of this project.
 ----------------------------------------------------------------------------------------------------"""
 # import what we need:
 import socket  # https://docs.python.org/3/library/socket.html
