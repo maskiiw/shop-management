@@ -1,5 +1,5 @@
 # shop_management
-in this project we have an desktop app to control diffrent parts of shop as storage, shopkeepers, generte invoice, add employe and etc
+in this basic project we have an desktop app to control diffrent parts of shop as storage, shopkeepers, generte invoice, add employe and etc
 you all can customize the src for your own need.
 
 #### in this project we use below libraries:
